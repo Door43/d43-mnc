@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mnc:home|Door43 (mnc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mnc|d43-mnc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mnc/archive/master.zip|d43-mnc.zip]]
+
+**Recent Changes**
+{{changes>ns = mnc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mnc|Ethnologue data]]
+
